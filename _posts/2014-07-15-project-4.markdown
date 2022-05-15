@@ -4,8 +4,5 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: <p>I am in love with staying active and it is an requirement for me to keep a well balanced life. I grew up in this lifestyle and have been skiing and mountain biking for 10 years. In response, I was introduced to weight lifting and various sports in which I regularly participate. I am in love with the community that can be found when engaging in these lifestyle activities. <img class="img-responsive" src="img/collage.jpg" alt="hobbies" /><b></b><img class="img-responsive" src="img/i1.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/i2.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/i3.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/i4.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/i5.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/i6.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/i7.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/i8.jpg" alt="volunteer" /><b></b>
 ---
