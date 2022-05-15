@@ -7,6 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:
-- <a href="https://docs.google.com/document/d/1WUF_bRew8pcyYYbERIKJnv6ZjQkk1OjhTaRtB9_ZRw0/edit">Big Pharma FDA Processes and M&A</a>
+description: <a href="https://docs.google.com/document/d/1WUF_bRew8pcyYYbERIKJnv6ZjQkk1OjhTaRtB9_ZRw0/edit">Big Pharma FDA Processes and M&A</a>
 ---
