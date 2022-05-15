@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <a href="PDF/paper-3.pdf">Paper 3</a><a href = PDF/Resume.pdf">Resume</a>
+description: <a href="PDF/paper-3.pdf">Paper 3</a><br></br><a href = PDF/Resume.pdf">Resume</a>
 ---
