@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
+alt: image-alt
+description: I have been an active volunteer since I was young and I have fallen in love with it. I have gotten the opportunity to engage communities around the world. I got to participate, in community outreach, with rural towns in Panama, Brazil, Argentina, Nicaragua, Dominican Republic, Bolivia, and the United States. These adventures allowed me to learn about different cultures and discourses, teach english to 7th graders, participate in street sanitation, paint houses, feed the hungry, and run a child day care. Most recently, from Feb 22 - May 19, I got VITA IRS certified to be an IRS volunteer. I got to do tax returns, free of charge, for underprivileged and lower income clients. <b></b><img class="img-responsive" src="img/v6.jpg" alt="volunteer" /><b></b><strong>A Core Memory-</strong> The picture above is a moment when I had an homestay in Managua, Nicaragua and the family that hosted me felt like my own. They had a tiny house made of tin and clay, with hardened dirt for flooring, on a farm. I slept on a small cot with my friend and learned how the native people of Managua lived. We woke up with the home stay family, broke bread with them, listened to life stories, and shared our dreams with each other. It is an experience I wish I never forget.<b><b/><img class="img-responsive" src="img/v1.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/v2.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/v3.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/v4.jpg" alt="volunteer" /><b></b><img class="img-responsive" src="img/v5.jpg" alt="volunteer" />
+---
