@@ -4,9 +4,5 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-description: <img class="img-responsive" src="img/Resume.jpg" alt="resume" /><b></b><img class="img-responsive" src="img/bloomberg.jpg" alt="certificate" /><b></b><img class="img-responsive" src="img/vita.jpg" alt="vita" />                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="PDF/Resume.pdf" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Resume
-                    </a>
-                </div>
+description: <img class="img-responsive" src="img/Resume.jpg" alt="resume" /><b></b><img class="img-responsive" src="img/bloomberg.jpg" alt="certificate" /><b></b><img class="img-responsive" src="img/vita.jpg" alt="vita" />
 ---
